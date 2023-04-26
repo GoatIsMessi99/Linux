@@ -1,2 +1,2 @@
 # code-demo
-it is created for recording c++ and Linux learning
+it is created for recording  Linux learning demo !
